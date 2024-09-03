@@ -33,7 +33,7 @@
 
 ## Benchmark Results
 
-![Sorting Algorithms Benchmark](https://github.com/user-attachments/assets/7789b799-f201-4aa9-b668-479d4b62bb57)
+![Figure_1](https://github.com/user-attachments/assets/28ca915c-79e1-4cf3-8054-3466f3b5cb68)
 
 ## Conclusion
 

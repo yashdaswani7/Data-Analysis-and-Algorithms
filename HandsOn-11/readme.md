@@ -1,5 +1,4 @@
-# Yash Daswani  
-**Student ID**: 1002257766  
+# Yash Daswani - Student ID: 1002257766
 
 ## Dynamic Array Implementation in Python
 
